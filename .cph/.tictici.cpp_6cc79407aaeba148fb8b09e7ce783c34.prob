@@ -1,0 +1,1 @@
+{"name":"Local: tictici","url":"e:\\C++\\tictici.cpp","tests":[{"id":1620552310493,"input":"3\nXOX\nXXO\nO_O\nXXX\nOOO\n___\nXOX\nOX_\nXO_","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"e:\\C++\\tictici.cpp","group":"local","local":true}

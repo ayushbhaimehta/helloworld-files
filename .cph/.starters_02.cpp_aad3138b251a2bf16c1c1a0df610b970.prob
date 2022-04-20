@@ -1,0 +1,1 @@
+{"name":"Local: starters_02","url":"e:\\C++\\starters_02.cpp","tests":[{"id":1622371632584,"input":"3\n1 aN\n2 ab NO\n3 A N D","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"e:\\C++\\starters_02.cpp","group":"local","local":true}

@@ -1,0 +1,1 @@
+{"name":"Local: bakr","url":"e:\\C++\\bakr.cpp","tests":[{"id":1622019991300,"input":"3\n1 1 1 2 3\n10 1 1 2 3\n10 3 1 2 3","output":"0\n1\n2"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"e:\\C++\\bakr.cpp","group":"local","local":true}

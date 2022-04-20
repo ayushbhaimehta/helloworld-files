@@ -1,0 +1,1 @@
+{"name":"Local: module","url":"e:\\C++\\module.cpp","tests":[{"id":1620771945066,"input":"3\n3 5\n3 6\n3 10","output":"2\n3\n2"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"e:\\C++\\module.cpp","group":"local","local":true}

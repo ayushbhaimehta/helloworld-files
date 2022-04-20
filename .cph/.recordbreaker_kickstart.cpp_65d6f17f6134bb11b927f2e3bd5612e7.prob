@@ -1,0 +1,1 @@
+{"name":"Local: recordbreaker_kickstart","url":"e:\\C++\\recordbreaker_kickstart.cpp","tests":[{"id":1614822563302,"input":"8\n1 2 0 3 2 0 4 2","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"e:\\C++\\recordbreaker_kickstart.cpp","group":"local","local":true}

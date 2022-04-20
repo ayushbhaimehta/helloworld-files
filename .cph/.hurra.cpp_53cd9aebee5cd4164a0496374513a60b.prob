@@ -1,0 +1,1 @@
+{"name":"Local: hurra","url":"e:\\C++\\hurra.cpp","tests":[{"id":1621788557446,"input":"1\n1 1 3 3","output":"32"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"e:\\C++\\hurra.cpp","group":"local","local":true}

@@ -1,0 +1,1 @@
+{"name":"Local: maxsubarraysum","url":"e:\\C++\\maxsubarraysum.cpp","tests":[{"id":1614903259972,"input":"5\n-1 4 -3 7 -4\n","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"e:\\C++\\maxsubarraysum.cpp","group":"local","local":true}

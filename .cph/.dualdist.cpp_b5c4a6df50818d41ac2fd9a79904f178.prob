@@ -1,0 +1,1 @@
+{"name":"Local: dualdist","url":"c:\\Users\\Ayush\\Desktop\\projects\\helloworld\\dualdist.cpp","tests":[{"id":1623618530370,"input":"    cout.tie(NULL);\n","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Users\\Ayush\\Desktop\\projects\\helloworld\\dualdist.cpp","group":"local","local":true}

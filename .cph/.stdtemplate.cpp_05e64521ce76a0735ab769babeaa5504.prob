@@ -1,0 +1,1 @@
+{"name":"Local: stdtemplate","url":"e:\\C++\\stdtemplate.cpp","tests":[{"id":1620801093177,"input":"1\n1","output":"6"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"e:\\C++\\stdtemplate.cpp","group":"local","local":true}
